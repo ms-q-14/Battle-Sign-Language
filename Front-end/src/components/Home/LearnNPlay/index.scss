@@ -1,0 +1,51 @@
+.learnContainer {
+  box-sizing: border-box;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: fit-content;
+  height: 100vh;
+  width: auto;
+  background-image: linear-gradient(to bottom right, #071f4d, #065c78);
+  font-family: "Aladin";
+  display: flex;
+  justify-content: center;
+}
+
+.learnHeader {
+  text-align: center;
+  font-size: 24px;
+  height: fit-content;
+}
+
+.learnContent {
+  position: relative;
+  top: 125px;
+  width: 100%;
+  height: fit-content;
+}
+
+.cardList{
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
+.cardTitle{
+  margin-top: none !important;
+}
+
+.zoom {
+  transition: all .5s ease-in-out;
+  /* Animation */
+}
+
+.zoom:hover {
+  transform: scale(1.05);
+  /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
