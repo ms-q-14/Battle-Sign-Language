@@ -29,7 +29,16 @@ Our project is an educational ASL platform designed to be both educational and e
 
 ## Built With
 
-Our app is built using <strong>React</strong> and utilizes various libraries, including <strong>MUI</strong>, React Icons, Router, React-Webcam, and, notably, Fingerpose along with <strong>Tensorflow.js</strong> for AI-driven sign language recognition within the browser.
+Our app is built using various tools and libraries within the industry.
+
+
+* [React]()
+* [MUI]()
+* [Fingerpose]()
+* [Tensorflow.js]()
+* [SCSS]()
+* [HTML]()
+
 
 
 ## Usage
