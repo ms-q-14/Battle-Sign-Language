@@ -57,8 +57,6 @@ Our app is built using various tools and libraries within the industry.
 
 <strong>Enhanced Communication</strong>: Use your newfound ASL skills to communicate more effectively with the hearing-impaired and deaf community. Bridge communication gaps and foster inclusivity in everyday interactions.
 
-### Creating A Pull Request
-
 
 
 ## Authors
