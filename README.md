@@ -6,11 +6,7 @@
 
   <h3 align="center">Battle Sign Language </h3>
 
-  <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
-    <br/>
-    <br/>
-  </p>
+  
 </p>
 
 
