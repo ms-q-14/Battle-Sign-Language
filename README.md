@@ -5,7 +5,11 @@
   </a>
 
   <h3 align="center">Battle Sign Language </h3>
-
+  <p align="center">
+    Sign language learning simplified through AI
+    <br/>
+    <br/>
+  </p>
   
 </p>
 
