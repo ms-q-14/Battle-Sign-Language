@@ -61,7 +61,7 @@ Our app is built using various tools and libraries within the industry.
 
 ## Authors
 
-* **Mohammad Saad Qureshi** - *Computer Science Student* - [Mohammad Saad Qureshi](https://github.com/ms-q-14) - *Full Stack Developer*
-* **Sahil Hakimi** - *Full Stack Developer* - [Sahil Hakimi](https://github.com/SahilHakimiUofT) - *Full Stack Developer*
-* **Tapas Rastogi** - *Computer Science Graduate* - [Tapas Rastogi](https://github.com/tapasrastogi2411) - *Full Stack Developer*
-* **Imran Rehman** - *Computer Science Student* - [Imran Rehman](https://github.com/imranrehman-it) - *Full Stack Developer*
+* **Mohammad Saad Qureshi** - [Mohammad Saad Qureshi](https://github.com/ms-q-14) - *Full Stack Developer*
+* **Sahil Hakimi** - [Sahil Hakimi](https://github.com/SahilHakimiUofT) - *Full Stack Developer*
+* **Tapas Rastogi** - [Tapas Rastogi](https://github.com/tapasrastogi2411) - *Full Stack Developer*
+* **Imran Rehman** - [Imran Rehman](https://github.com/imranrehman-it) - *Full Stack Developer*
