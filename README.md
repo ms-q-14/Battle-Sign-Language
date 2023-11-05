@@ -65,9 +65,3 @@ Our app is built using various tools and libraries within the industry.
 * **Sahil Hakimi** - *Full Stack Developer* - [Sahil Hakimi](https://github.com/SahilHakimiUofT) - *Full Stack Developer*
 * **Tapas Rastogi** - *Computer Science Graduate* - [Tapas Rastogi](https://github.com/tapasrastogi2411) - *Full Stack Developer*
 * **Imran Rehman** - *Computer Science Student* - [Imran Rehman](https://github.com/imranrehman-it) - *Full Stack Developer*
-
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
