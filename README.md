@@ -33,6 +33,11 @@ In a world where easy communication is often taken for granted, millions of hear
 
 Our project is an educational ASL platform designed to be both educational and entertaining. We offer lessons in basic ASL, starting with the alphabet, and plan to expand our curriculum in the future. What sets our app apart and makes it engaging is its interactive approach. Users can practice their ASL skills directly within the app, which uses their webcam and AI to provide instant feedback on their signing accuracy. The app also features a skills game, challenging users to put their newfound knowledge to the test in a time trial, where they earn scores for each correctly signed letter or word. A global leaderboard allows users to compete with others around the world and with friends.
 
+<strong>Practice with intuitive feedback</strong>
+
+![gallery](https://github.com/ms-q-14/Battle-Sign-Language/assets/85078191/1cbd67d2-a956-4a74-a6d1-c26da131574b)
+
+
 ## Built With
 
 Our app is built using various tools and libraries within the industry.
