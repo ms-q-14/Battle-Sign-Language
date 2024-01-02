@@ -19,6 +19,11 @@
 
 ![Screen Shot](https://i.imgur.com/MS4OnNz.jpg)
 
+##Demo 
+https://github.com/ms-q-14/Battle-Sign-Language/assets/85078191/0bc1aa60-20d0-4a53-bf45-856078923375
+
+
+
 <strong>Inspiration</strong>
 
 In a world where easy communication is often taken for granted, millions of hearing-impaired and deaf individuals face daily challenges in expressing their thoughts and needs. Our inspiration for this project arose from a profound desire to create a more inclusive world by making American Sign Language (ASL) accessible to everyone in an enjoyable and engaging way.
